@@ -1,0 +1,88 @@
+{
+  "todayStats": {
+    "totalSales": 45897,
+    "ordersCount": 24,
+    "lowStockAlerts": 3,
+    "pendingShipments": 8
+  },
+  "monthlyRevenue": [
+    { "month": "Aug", "revenue": 245000 },
+    { "month": "Sep", "revenue": 289000 },
+    { "month": "Oct", "revenue": 312000 },
+    { "month": "Nov", "revenue": 298000 },
+    { "month": "Dec", "revenue": 356000 },
+    { "month": "Jan", "revenue": 423000 }
+  ],
+  "topSellingProducts": [
+    {
+      "id": "HYD005",
+      "name": "Grand i10 Air Filter",
+      "soldUnits": 156,
+      "revenue": 77844
+    },
+    {
+      "id": "HYD002",
+      "name": "Creta Engine Oil Filter",
+      "soldUnits": 134,
+      "revenue": 120466
+    },
+    {
+      "id": "HYD001",
+      "name": "i20 Brake Pad Set",
+      "soldUnits": 98,
+      "revenue": 244902
+    },
+    {
+      "id": "HYD009",
+      "name": "Santro Spark Plug Set",
+      "soldUnits": 87,
+      "revenue": 69513
+    },
+    {
+      "id": "HYD007",
+      "name": "Elantra Wiper Blade Set",
+      "soldUnits": 76,
+      "revenue": 98724
+    }
+  ],
+  "categoryDistribution": [
+    { "name": "Engine Parts", "value": 35 },
+    { "name": "Brake System", "value": 22 },
+    { "name": "Electrical Parts", "value": 18 },
+    { "name": "Suspension", "value": 12 },
+    { "name": "Body Parts", "value": 8 },
+    { "name": "Accessories", "value": 5 }
+  ],
+  "recentActivity": [
+    {
+      "id": 1,
+      "type": "order",
+      "message": "New order placed by Sneha Reddy",
+      "time": "5 mins ago"
+    },
+    {
+      "id": 2,
+      "type": "stock",
+      "message": "Low stock alert: Venue Suspension Strut",
+      "time": "1 hour ago"
+    },
+    {
+      "id": 3,
+      "type": "customer",
+      "message": "New customer registered: Anita Gupta",
+      "time": "2 hours ago"
+    },
+    {
+      "id": 4,
+      "type": "order",
+      "message": "Order ORD-2024-005 delivered successfully",
+      "time": "3 hours ago"
+    },
+    {
+      "id": 5,
+      "type": "chat",
+      "message": "New support message from Rajesh Kumar",
+      "time": "4 hours ago"
+    }
+  ]
+}

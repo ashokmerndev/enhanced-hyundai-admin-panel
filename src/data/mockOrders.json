@@ -1,0 +1,139 @@
+[
+  {
+    "id": "ORD-2024-001",
+    "customerName": "Rajesh Kumar",
+    "customerEmail": "rajesh.kumar@email.com",
+    "items": [
+      {
+        "productId": "HYD001",
+        "name": "Hyundai i20 Brake Pad Set",
+        "quantity": 2,
+        "price": 2499,
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=200&h=200&fit=crop"
+      },
+      {
+        "productId": "HYD005",
+        "name": "Grand i10 Air Filter",
+        "quantity": 1,
+        "price": 499,
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=200&h=200&fit=crop"
+      }
+    ],
+    "totalAmount": 5497,
+    "status": "Delivered",
+    "orderDate": "2024-01-15T10:30:00Z",
+    "deliveryDate": "2024-01-20T14:20:00Z",
+    "shippingAddress": "123, MG Road, Bangalore, Karnataka - 560001",
+    "paymentMethod": "UPI"
+  },
+  {
+    "id": "ORD-2024-002",
+    "customerName": "Priya Sharma",
+    "customerEmail": "priya.sharma@email.com",
+    "items": [
+      {
+        "productId": "HYD003",
+        "name": "Verna Headlight Assembly",
+        "quantity": 1,
+        "price": 8999,
+        "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=200&h=200&fit=crop"
+      }
+    ],
+    "totalAmount": 8999,
+    "status": "Shipped",
+    "orderDate": "2024-01-18T15:45:00Z",
+    "shippingAddress": "45, Sector 18, Noida, Uttar Pradesh - 201301",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": "ORD-2024-003",
+    "customerName": "Amit Patel",
+    "customerEmail": "amit.patel@email.com",
+    "items": [
+      {
+        "productId": "HYD002",
+        "name": "Creta Engine Oil Filter",
+        "quantity": 3,
+        "price": 899,
+        "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=200&h=200&fit=crop"
+      },
+      {
+        "productId": "HYD009",
+        "name": "Santro Spark Plug Set",
+        "quantity": 2,
+        "price": 799,
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=200&h=200&fit=crop"
+      }
+    ],
+    "totalAmount": 4295,
+    "status": "Processing",
+    "orderDate": "2024-01-20T09:15:00Z",
+    "shippingAddress": "78, Satellite Area, Ahmedabad, Gujarat - 380015",
+    "paymentMethod": "Net Banking"
+  },
+  {
+    "id": "ORD-2024-004",
+    "customerName": "Sneha Reddy",
+    "customerEmail": "sneha.reddy@email.com",
+    "items": [
+      {
+        "productId": "HYD006",
+        "name": "Alcazar Front Bumper",
+        "quantity": 1,
+        "price": 18999,
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=200&h=200&fit=crop"
+      }
+    ],
+    "totalAmount": 18999,
+    "status": "Pending",
+    "orderDate": "2024-01-22T11:00:00Z",
+    "shippingAddress": "234, Banjara Hills, Hyderabad, Telangana - 500034",
+    "paymentMethod": "COD"
+  },
+  {
+    "id": "ORD-2024-005",
+    "customerName": "Vikram Singh",
+    "customerEmail": "vikram.singh@email.com",
+    "items": [
+      {
+        "productId": "HYD007",
+        "name": "Elantra Wiper Blade Set",
+        "quantity": 1,
+        "price": 1299,
+        "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=200&h=200&fit=crop"
+      },
+      {
+        "productId": "HYD010",
+        "name": "i20 Door Handle Chrome",
+        "quantity": 2,
+        "price": 1899,
+        "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=200&h=200&fit=crop"
+      }
+    ],
+    "totalAmount": 5097,
+    "status": "Delivered",
+    "orderDate": "2024-01-10T16:30:00Z",
+    "deliveryDate": "2024-01-16T10:45:00Z",
+    "shippingAddress": "567, Civil Lines, Jaipur, Rajasthan - 302006",
+    "paymentMethod": "UPI"
+  },
+  {
+    "id": "ORD-2024-006",
+    "customerName": "Kavita Desai",
+    "customerEmail": "kavita.desai@email.com",
+    "items": [
+      {
+        "productId": "HYD008",
+        "name": "Tucson Radiator Assembly",
+        "quantity": 1,
+        "price": 15999,
+        "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=200&h=200&fit=crop"
+      }
+    ],
+    "totalAmount": 15999,
+    "status": "Processing",
+    "orderDate": "2024-01-21T14:20:00Z",
+    "shippingAddress": "89, Koramangala, Bangalore, Karnataka - 560095",
+    "paymentMethod": "Debit Card"
+  }
+]

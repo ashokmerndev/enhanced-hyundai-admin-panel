@@ -1,0 +1,101 @@
+[
+  {
+    "id": "CHAT-001",
+    "customerId": "CUST-001",
+    "customerName": "Rajesh Kumar",
+    "status": "open",
+    "lastMessage": "Do you have stock for i20 brake pads?",
+    "lastMessageTime": "2024-01-22T16:45:00Z",
+    "unreadCount": 2,
+    "messages": [
+      {
+        "id": "MSG-001",
+        "sender": "customer",
+        "text": "Hi, I need brake pads for my i20 Elite 2018 model",
+        "timestamp": "2024-01-22T16:30:00Z"
+      },
+      {
+        "id": "MSG-002",
+        "sender": "admin",
+        "text": "Hello Rajesh! Yes, we have genuine Hyundai brake pads in stock. Part number 58101-C8A00.",
+        "timestamp": "2024-01-22T16:32:00Z"
+      },
+      {
+        "id": "MSG-003",
+        "sender": "customer",
+        "text": "What's the price?",
+        "timestamp": "2024-01-22T16:33:00Z"
+      },
+      {
+        "id": "MSG-004",
+        "sender": "admin",
+        "text": "The price is ₹2,499 for a complete set. It includes free shipping.",
+        "timestamp": "2024-01-22T16:35:00Z"
+      },
+      {
+        "id": "MSG-005",
+        "sender": "customer",
+        "text": "Do you have stock for i20 brake pads?",
+        "timestamp": "2024-01-22T16:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "CHAT-002",
+    "customerId": "CUST-003",
+    "customerName": "Amit Patel",
+    "status": "resolved",
+    "lastMessage": "Thank you for the quick delivery!",
+    "lastMessageTime": "2024-01-20T14:20:00Z",
+    "unreadCount": 0,
+    "messages": [
+      {
+        "id": "MSG-006",
+        "sender": "customer",
+        "text": "I received the oil filters. Thanks!",
+        "timestamp": "2024-01-20T14:15:00Z"
+      },
+      {
+        "id": "MSG-007",
+        "sender": "admin",
+        "text": "Great to hear! Let us know if you need anything else.",
+        "timestamp": "2024-01-20T14:18:00Z"
+      },
+      {
+        "id": "MSG-008",
+        "sender": "customer",
+        "text": "Thank you for the quick delivery!",
+        "timestamp": "2024-01-20T14:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "CHAT-003",
+    "customerId": "CUST-004",
+    "customerName": "Sneha Reddy",
+    "status": "open",
+    "lastMessage": "When will the bumper be delivered?",
+    "lastMessageTime": "2024-01-22T17:10:00Z",
+    "unreadCount": 1,
+    "messages": [
+      {
+        "id": "MSG-009",
+        "sender": "customer",
+        "text": "I placed an order for Alcazar front bumper yesterday",
+        "timestamp": "2024-01-22T17:00:00Z"
+      },
+      {
+        "id": "MSG-010",
+        "sender": "admin",
+        "text": "Yes, we have your order ORD-2024-004. It's being processed.",
+        "timestamp": "2024-01-22T17:05:00Z"
+      },
+      {
+        "id": "MSG-011",
+        "sender": "customer",
+        "text": "When will the bumper be delivered?",
+        "timestamp": "2024-01-22T17:10:00Z"
+      }
+    ]
+  }
+]

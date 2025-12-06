@@ -1,0 +1,167 @@
+[
+  {
+    "id": "HYD001",
+    "name": "Hyundai i20 Brake Pad Set",
+    "partNumber": "58101-C8A00",
+    "category": "Brake System",
+    "price": 2499,
+    "stock": 45,
+    "model": "i20 Elite (2014-2020)",
+    "images": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=400&h=400&fit=crop"
+    ],
+    "description": "High-quality ceramic brake pads for superior stopping power",
+    "supplier": "Hyundai Genuine Parts",
+    "status": "In Stock"
+  },
+  {
+    "id": "HYD002",
+    "name": "Creta Engine Oil Filter",
+    "partNumber": "26300-35503",
+    "category": "Engine Parts",
+    "price": 899,
+    "stock": 120,
+    "model": "Creta (2015-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop"
+    ],
+    "description": "OEM oil filter for optimal engine protection",
+    "supplier": "Hyundai Genuine Parts",
+    "status": "In Stock"
+  },
+  {
+    "id": "HYD003",
+    "name": "Verna Headlight Assembly",
+    "partNumber": "92101-3X000",
+    "category": "Electrical Parts",
+    "price": 8999,
+    "stock": 8,
+    "model": "Verna (2017-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400&h=400&fit=crop"
+    ],
+    "description": "LED projector headlight assembly - Left side",
+    "supplier": "Hyundai Genuine Parts",
+    "status": "Low Stock"
+  },
+  {
+    "id": "HYD004",
+    "name": "Venue Suspension Strut",
+    "partNumber": "54650-K3000",
+    "category": "Suspension",
+    "price": 12499,
+    "stock": 0,
+    "model": "Venue (2019-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=400&h=400&fit=crop"
+    ],
+    "description": "Front suspension strut assembly",
+    "supplier": "Mobis",
+    "status": "Out of Stock"
+  },
+  {
+    "id": "HYD005",
+    "name": "Grand i10 Air Filter",
+    "partNumber": "28113-1J000",
+    "category": "Engine Parts",
+    "price": 499,
+    "stock": 200,
+    "model": "Grand i10 Nios (2019-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&h=400&fit=crop"
+    ],
+    "description": "Genuine air filter for better fuel efficiency",
+    "supplier": "Hyundai Genuine Parts",
+    "status": "In Stock"
+  },
+  {
+    "id": "HYD006",
+    "name": "Alcazar Front Bumper",
+    "partNumber": "86511-C9000",
+    "category": "Body Parts",
+    "price": 18999,
+    "stock": 5,
+    "model": "Alcazar (2021-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=400&h=400&fit=crop"
+    ],
+    "description": "Front bumper assembly with fog lamp housing",
+    "supplier": "Hyundai Genuine Parts",
+    "status": "Low Stock"
+  },
+  {
+    "id": "HYD007",
+    "name": "Elantra Wiper Blade Set",
+    "partNumber": "98350-3X000",
+    "category": "Accessories",
+    "price": 1299,
+    "stock": 75,
+    "model": "Elantra (2016-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=400&h=400&fit=crop"
+    ],
+    "description": "Premium silicone wiper blade pair",
+    "supplier": "Hyundai Genuine Parts",
+    "status": "In Stock"
+  },
+  {
+    "id": "HYD008",
+    "name": "Tucson Radiator Assembly",
+    "partNumber": "25310-D3300",
+    "category": "Engine Parts",
+    "price": 15999,
+    "stock": 12,
+    "model": "Tucson (2016-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop"
+    ],
+    "description": "Complete radiator assembly with cooling fan",
+    "supplier": "Mobis",
+    "status": "In Stock"
+  },
+  {
+    "id": "HYD009",
+    "name": "Santro Spark Plug Set",
+    "partNumber": "18855-27410",
+    "category": "Engine Parts",
+    "price": 799,
+    "stock": 150,
+    "model": "Santro (2018-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&h=400&fit=crop"
+    ],
+    "description": "Set of 4 iridium spark plugs",
+    "supplier": "NGK",
+    "status": "In Stock"
+  },
+  {
+    "id": "HYD010",
+    "name": "i20 Door Handle Chrome",
+    "partNumber": "82651-2V000",
+    "category": "Accessories",
+    "price": 1899,
+    "stock": 30,
+    "model": "i20 (2020-2023)",
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=400&h=400&fit=crop"
+    ],
+    "description": "Chrome-plated outer door handle - Right front",
+    "supplier": "Hyundai Genuine Parts",
+    "status": "In Stock"
+  }
+]
