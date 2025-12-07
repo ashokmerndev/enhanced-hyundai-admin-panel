@@ -1,30 +1,36 @@
 {
   "compilerOptions": {
+    /* Target modern browsers + ES features */
     "target": "ES2020",
-    "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "module": "ESNext",
-    "skipLibCheck": true,
 
-    /* Bundler mode */
+    /* Modules */
+    "module": "ESNext",
     "moduleResolution": "bundler",
-    "allowImportingTsExtensions": true,
-    "isolatedModules": true,
-    "moduleDetection": "force",
-    "noEmit": true,
+
+    /* React JSX */
     "jsx": "react-jsx",
 
-    /* Linting */
+    /* File handling */
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "noEmit": true,
+
+    /* Type checking / linting */
     "strict": false,
+    "skipLibCheck": true,
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noImplicitAny": false,
     "noFallthroughCasesInSwitch": false,
 
+    /* Paths / Aliases */
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
   },
+
+  /* Includes the entire source folder */
   "include": ["src"]
 }
