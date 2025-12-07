@@ -2,7 +2,7 @@
   {
     "id": "CHAT-001",
     "customerId": "CUST-001",
-    "customerName": "Rajesh Kumar",
+    "customerName": "SAI RAM",
     "status": "open",
     "lastMessage": "Do you have stock for i20 brake pads?",
     "lastMessageTime": "2024-01-22T16:45:00Z",
@@ -17,7 +17,7 @@
       {
         "id": "MSG-002",
         "sender": "admin",
-        "text": "Hello Rajesh! Yes, we have genuine Hyundai brake pads in stock. Part number 58101-C8A00.",
+        "text": "Hello SAI! Yes, we have genuine Hyundai brake pads in stock. Part number 58101-C8A00.",
         "timestamp": "2024-01-22T16:32:00Z"
       },
       {
@@ -43,7 +43,7 @@
   {
     "id": "CHAT-002",
     "customerId": "CUST-003",
-    "customerName": "Amit Patel",
+    "customerName": "THARUN",
     "status": "resolved",
     "lastMessage": "Thank you for the quick delivery!",
     "lastMessageTime": "2024-01-20T14:20:00Z",
@@ -72,7 +72,7 @@
   {
     "id": "CHAT-003",
     "customerId": "CUST-004",
-    "customerName": "Sneha Reddy",
+    "customerName": "GOVIND",
     "status": "open",
     "lastMessage": "When will the bumper be delivered?",
     "lastMessageTime": "2024-01-22T17:10:00Z",
